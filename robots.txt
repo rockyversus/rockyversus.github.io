@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Sitemap: https://rockyversus.github.io/sitemap.xml
+Sitemap: https://rockyversus.github.io/kiselev/sitemap.xml
